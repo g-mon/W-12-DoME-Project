@@ -3,7 +3,7 @@ public class VideoGame extends Item
 {
     private String studio;
     public VideoGame(String theTitle, String studio){
-        super(theTitle, 0);
+        super(theTitle);
         this.studio=studio;
     }
     

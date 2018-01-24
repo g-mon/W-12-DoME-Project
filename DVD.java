@@ -6,7 +6,7 @@
  * @author Michael Kolling and David J. Barnes
  * @version 2008.03.30
  */
-public class DVD extends Item 
+public class DVD extends DurItem 
 {
     private String director;
     private int time;
